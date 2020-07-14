@@ -79,7 +79,7 @@ git clone https://github.com/ToasterDEV/ZoominWindowsSandbox.git
 ```
 2. Open "InstallZoomBox.ps1"  either by running it through PowerShell or by right clicking and selecting Run with PowerShell
 ```sh
-.\\InstallZoomBox.ps1
+.\InstallZoomBox.ps1
 ```
 3. Enjoy! A shortcut to open the Zoom sandbox should have been created within your desktop.
 
