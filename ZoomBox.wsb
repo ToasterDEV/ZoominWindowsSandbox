@@ -1,0 +1,15 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Sandbox\Scripts</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\Zoom</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>C:\Users\WDAGUtilityAccount\Desktop\Zoom\ZoomInstall.cmd</Command>
+  </LogonCommand>
+  <VGpu>Enable</VGpu>
+  <VideoInput>Enable</VideoInput>
+  <ProtectedClient>Enable</ProtectedClient>
+</Configuration>
