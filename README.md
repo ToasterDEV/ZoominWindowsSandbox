@@ -68,6 +68,7 @@ You'll need both access to the Internet and the credentials for an admin account
 
 This is an example of how to list things you need to use the software and how to install them.
 * Any Windows 10 Pro/Enterprise/Education build **>=18305**
+* Virtualization enabled in BIOS/UEFI
 * Admin rights to the current machine
 * An active Internet connection
 
