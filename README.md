@@ -9,7 +9,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Code Size][codesize-shield]]
+ ![Code Size][codesize-shield]
 [![Issues][issues-shield]][issues-url]
 [![GNU License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -23,7 +23,7 @@
     <img src="images/powershell.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ZoominWindowsSandbox</h3>
+  <h3 align="center">ZoomBox</h3>
 
   <p align="center">
     Automatically open a new instance of Windows Sandbox and install Zoom within it silently.
